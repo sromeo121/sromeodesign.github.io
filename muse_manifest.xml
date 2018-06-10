@@ -1,0 +1,268 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sromeo.design" resolutions="1x" timestamp="1528662547913">
+  <folder name="css">
+    <file name="site_global.css" crc="125189226"/>
+    <file name="master_multipage.css" crc="4225502694" ref="resume:index:about"/>
+    <file name="nomq_preview_master_multipage.css" crc="427768309" ref="resume:index:about"/>
+    <file name="resume.css" crc="230444202" ref="resume"/>
+    <file name="nomq_resume.css" crc="4240559685" ref="resume"/>
+    <file name="index.css" crc="32487870" ref="index"/>
+    <file name="nomq_index.css" crc="429279192" ref="index"/>
+    <file name="about.css" crc="3972642412" ref="about"/>
+    <file name="nomq_about.css" crc="4269563620" ref="about"/>
+  </folder>
+  <folder name="assets">
+    <file name="sromeoresume.pdf" crc="476584788" seo="true" mt="1524660013000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:resume:about"/>
+    <file name="museutils.js" crc="340535759" ref="index:resume:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:resume:about"/>
+    <file name="museconfig.js" crc="310584261" ref="index:resume:about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about"/>
+    <file name="webpro.js" crc="4059564322" ref="index:resume:about"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:resume:about"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:resume:about"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:resume:about"/>
+    <file name="require.js" crc="7928878" ref="index:resume:about"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4090730212" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:resume:about"/>
+    <file name="active-category.svg" crc="457779390" ref="index"/>
+    <file name="active-category_poster_u908.png" crc="3998734298" ref="index"/>
+    <file name="srdesign.svg" crc="4148158050" seo="true" ref="index:resume:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="srdesign_poster_.png" crc="3958586517" ref="index"/>
+    <file name="sarahromeo.svg" crc="201475935" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sarahromeo_poster_.png" crc="167481946" ref="index"/>
+    <file name="endersgamebrochure.gif" crc="500552093" seo="true" ref="index">
+      <caption webpage="index" alt="Title"/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt="Title"/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt="Title"/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt="Title"/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whathappenednytbr.gif" crc="184319068" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="forgecoasters.gif" crc="216194548" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="emailbanners.gif" crc="348035460" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="christmasinvite.gif" crc="457638501" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sswebsite.gif" crc="448214845" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maketroubleclp.gif" crc="4181994898" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maketroubletote.gif" crc="4043721309" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="buttons.gif" crc="309867880" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="katemortoneblast.gif" crc="535662171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blocklead.gif" crc="20834593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dogsbrochure.gif" crc="3977113710" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scribnersweeps.gif" crc="4004677107" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kidsactivities.gif" crc="303612937" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="townhallinvite.gif" crc="3869226780" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coulterad.gif" crc="4161445030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="characterdriven_brochure.gif" crc="3830106320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pwcover.gif" crc="489907958" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cross.svg" crc="4293140672" ref="index"/>
+    <file name="cross_poster_u1831.png" crc="4137821492" ref="index"/>
+    <file name="chevron-left.svg" crc="4267998081" ref="index"/>
+    <file name="chevron-left_poster_u1815.png" crc="466403355" ref="index"/>
+    <file name="chevron-right.svg" crc="3912356295" ref="index"/>
+    <file name="chevron-right_poster_u1823.png" crc="273946670" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="69406.svg" crc="4027861632" ref="index"/>
+    <file name="69406_poster_u27419.png" crc="3789821009" ref="index"/>
+    <file name="69366.svg" crc="318745358" ref="index"/>
+    <file name="69366_poster_u27386.png" crc="304942749" ref="index"/>
+    <file name="menu.svg" crc="3936495759" ref="index"/>
+    <file name="menu_poster_u8835.png" crc="3896325257" ref="index"/>
+    <file name="aboutsarah.svg" crc="306017119" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="aboutsarah_poster_.png" crc="211286752" ref="about"/>
+    <file name="13458524_10101407846201830_5801512170455377222_o.jpg" crc="45905274" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="13458524_10101407846201830_5801512170455377222_o-u28163-fr.jpg" crc="225519256" ref="about"/>
+  </folder>
+  <file name="index.html" crc="297072250" seo="true" mt="1528661051529" redirect="true"/>
+  <file name="resume.html" crc="3788802599" seo="true" mt="1528661051529" redirect="true"/>
+  <file name="about.html" crc="4055628822" seo="true" mt="1528661051529" redirect="true"/>
+</manifest>
